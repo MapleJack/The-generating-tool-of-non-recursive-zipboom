@@ -4,7 +4,7 @@ This tool is a non-recursive zip bomb batch generator based on "zipbomb-20190822
 
 
 ## How to run it
-Please run this script in the same directory as the file "zipbomb"(inclued in "zipbomb-20190822.zip"). This script provides all the zipbomb batch generation commands mentioned in the "MakeFile" file (inclued in "zipbomb-20190822.zip") except zbxxl.zip and zbxxl.extra.zip, because these two commands will consume a lot of RAM and take a lot of time.The generated files will be placed in a folder named "zips".
+Please run this script in the same directory as the file "zipbomb"(included in "zipbomb-20190822.zip"). This script provides all the zipbomb batch generation commands mentioned in the "MakeFile" file (included in "zipbomb-20190822.zip") except zbxxl.zip and zbxxl.extra.zip, because these two commands will consume a lot of RAM and take a lot of time.The generated files will be placed in a folder named "zips".
 
 ## How to use it
 ### Format
