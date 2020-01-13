@@ -16,10 +16,9 @@ The code format is as follows:
     
     (code)
     '''
-### Usage
-
 Find the corresponding code according to the size of the zip bomb you need to generate in batches.
 
+### Usage
 
 
     for i in range(100)
