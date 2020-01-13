@@ -2,10 +2,10 @@
 ## Introduction
 This tool is a non-recursive zip bomb batch generator based on "zipbomb-20190822.zip" provided by David Fifield and is a python3 script. （I have provided this zip file. If you need the latest version or need to learn more about non-recursive zipbomb, please enter https://www.bamsoftware.com/hacks/zipbomb/）
 
-This script was written by the way because of my experimental needs, so it doesn't look so formal (of course, my own code level is also limited)
+This script was written by the way because of my experimental needs, so it doesn't look so formal.
 
 ## How to run it
-Please run this script in the same directory as the file "zipbomb". This script provides all the zipbomb batch generation commands mentioned in the "MakeFile" file except zbxxl.zip and zbxxl.extra.zip, because these two commands will consume a lot of RAM and take a lot of time.
+Please run this script in the same directory as the file "zipbomb". This script provides all the zipbomb batch generation commands mentioned in the "MakeFile" file except zbxxl.zip and zbxxl.extra.zip, because these two commands will consume a lot of RAM and take a lot of time.The generated files will be placed in a folder named "zips".
 
 ## How to use it
 ### Format
