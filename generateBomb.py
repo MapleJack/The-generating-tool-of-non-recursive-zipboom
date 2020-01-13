@@ -2,7 +2,7 @@ import os
 import random
 
 """
-These are for overlap and num_file should not be 1
+These are for overlap
 
 for i in range(100):
     mode = "full_overlap"
