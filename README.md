@@ -1,3 +1,4 @@
+[TOC]
 # The-generating-tool-of-non-recursive-zipboom
 ## Introduction
 This tool is a non-recursive zip bomb batch generator based on "zipbomb-20190822.zip" provided by David Fifield and is a python3 script. （I have provided this zip file. If you need the latest version or need to learn more about non-recursive zipbomb, please enter https://www.bamsoftware.com/hacks/zipbomb/）
@@ -22,9 +23,12 @@ These are for xx
 Find the corresponding code according to the size of the zip bomb you need to generate in batches.
 
 
-'for i in range(100)' --> 100 is the number of bombs you want to generate  
+' for i in range(100) ' 
+
+--> 100 is the number of bombs you want to generate  
 
 '
+
     mode = "quoted_overlap"
     
     num_file = random.randint(100000, 190023)
